@@ -10,7 +10,7 @@ EDA stands for Exploratory and Explanatory Data Analysis. I am using an e-commer
 7. CustomerID: A unique number for each customer
 8. Country: The country where the transaction took place or the location of the customer who made the purchase
 
-The purpose of this analysis is to provide a basic overview and understanding of the various transaction information conducted from December 2010 to December 2011. Here are some aspects being analyzed:
+The purpose of this analysis is to provide a basic overview and deep understanding of the transaction information conducted from December 2010 to December 2011. Here are some aspects being analyzed:
 - Products with the highest sales
 - Countries with the highest sales
 - Correlation between product prices and the quantity sold
